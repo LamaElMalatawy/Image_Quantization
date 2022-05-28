@@ -1,0 +1,60 @@
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\CLOUD FOLDERS\Dropbox\Algorithms'16 Materials\STUDENTS FOLDER\LABS\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojAssemblyReference.cache
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.cache
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.CoreCompileInputs.cache
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+F:\Uni\semester 6\Algorithm\Labs\[StudentsVer] Lab7 - Project Release\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojAssemblyReference.cache
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.cache
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.CoreCompileInputs.cache
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojAssemblyReference.cache
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.cache
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.CoreCompileInputs.cache
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\colleage\6th semester\Algorithms\Project\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojAssemblyReference.cache
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.cache
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.CoreCompileInputs.cache
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+F:\Uni\semester 6\Algorithm\Labs\[2] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
