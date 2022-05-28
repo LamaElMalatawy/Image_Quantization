@@ -4,6 +4,6 @@ The idea of color quantization is to reduce the number of colors in a full resol
 
 <h3>Algorithms used:</h3>
 <ul>
-  <li> KMeans Clustering <li>
-  <li> Prim's algorithm for building the MST <li>
+  <li> KMeans Clustering </li>
+  <li> Prim's algorithm for building the MST </li>
 </ul>
